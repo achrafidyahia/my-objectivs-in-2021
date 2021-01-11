@@ -1,0 +1,122 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  background-color: #FDFEFE;
+  font-family: 'Hachi Maru Pop', cursive;
+  font-family: 'Mukta', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
+}
+header{
+  background-color: #000000	;
+  color: #ffffff;
+  display: flex;
+}
+header img{
+  width: 70px;
+}
+header h2 {
+  padding-left: 35%;
+}
+.divs{
+  padding: 20px;
+  border: 0px solid #17202A;
+  width: 100px;
+  text-align: center;
+  box-shadow: 6px 6px 6px gray;
+  margin-top: 150px;
+  height: 200px;
+  background-color: #F4F6F7;
+  position: fixed;
+
+}
+.divs a {
+  color: black;
+  text-decoration: underline;
+  font-family: 'Hachi Maru Pop', cursive;
+  font-family: 'Noto Sans', sans-serif;
+}
+.index{
+  color: #B03A2E;
+}
+.content{
+  float: right;
+  width: 80%;
+}
+.introduction img{
+  width: 450px;
+  padding-top: 20px;
+  padding-left: 20%;
+}
+.introduction p{
+  padding-left: 160px;
+  font-size: 20px;
+}
+hr{
+  height: 5px;
+  background-color: black;
+  width: 300px;
+}
+.coding img{
+  width: 450px;
+  padding-left: 20%;
+}
+.coding p{
+  padding-left: 20%;
+  font-size: 20px;
+}
+.coding ul{
+  padding-left: 20%;
+}
+.coding li{
+  color: #E74C3C;
+}
+.coding h2{
+  color: #FF0000;
+  padding-left: 20%;
+}
+.religion h2{
+  color: #FF0000;
+    padding-left: 20%;
+}
+.religion img{
+  width: 450px;
+  padding-left: 20%;
+}
+.religion p{
+  padding-left: 20%;
+  font-size: 20px;
+}
+.religion ul{
+  padding-left: 20%;
+}
+.religion li{
+  color: #E74C3C;
+}
+.studying h2{
+  color: #FF0000;
+  padding-left: 20%;
+}
+.studying img{
+  width: 450px;
+  padding-left: 20%;
+}
+.studying ul {
+  padding-left: 20%;
+}
+.studying li{
+  color:#E74C3C;
+}
+.sport h2{
+  color: #FF0000;
+  padding-left: 20%;
+}
+.sport ul{
+  padding-left: 20%;
+}
+.sport li{
+  color: #E74C3C;
+}
+.sport img{
+  width: 450px;
+  padding-left: 20%;
+}
